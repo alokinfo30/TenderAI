@@ -6,7 +6,10 @@ Problem
 
 Small contractors miss government tenders because portals are difficult to monitor.
 
+
 Solution
+
+
 Daily AI-powered tender matching
 WhatsApp alerts
 Eligibility checker
